@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Nikhar
 - 👀 I’m interested in Coding and Building Softwares 
 - 🌱 I’m currently learning Data Structures & Algorithms
-- 💞️ I’m looking to collaborate on an Entry level position for Software Engineeer role
+- 💞️ I’m looking to collaborate as an Entry level position for Software Engineeer role
 - 📫 How to reach me (nikhartiwari.etw@gmail.com) (+919536976793)
 
 <!---
